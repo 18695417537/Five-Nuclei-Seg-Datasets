@@ -18,13 +18,7 @@ The predefined experimental partitions used in our study were kept fixed, and te
 
 Please refer to the original Kumar dataset publication and source for detailed dataset information, licensing conditions, and citation requirements.
 
-## Citation
 
-N. Kumar, R. Verma, S. Sharma, S. Bhargava, A. Vahadane, and A. Sethi,  
-"A dataset and a technique for generalized nuclear segmentation for computational pathology,"  
-IEEE Transactions on Medical Imaging, vol. 36, no. 7, pp. 1550–1560, 2017.
-
-DOI: 10.1109/TMI.2017.2677499
 
 ## License
 
